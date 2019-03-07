@@ -11,20 +11,20 @@
       "instruction_text": "What's your favorite number?",
       "answer_options": ["1", "2", "3", "4"],
       "answer": "4"
-    }
-	{
+    },
+    {
       "id": 3,
       "instruction_text": "What is the capital of India?",
       "answer_options": ["Delhi", "Mumbai", "Calcutta", "Nagpur"],
       "answer": "Delhi"
-    }
-	{
+    },
+    {
       "id": 4,
       "instruction_text": "Who is the author of Shiva Trilogy?",
       "answer_options": ["Amish", "Chetan", "Vikram", "Devdatt"],
       "answer": "Amish"
-    }
-	{
+    },
+    {
       "id": 5,
       "instruction_text": "Who is the richest person of world?",
       "answer_options": ["Jeff Bezos", "Bill Gates", "Warren Buffet", "Mukesh Ambani"],
